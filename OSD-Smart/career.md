@@ -1,3 +1,4 @@
+
 ## Career tips and best practices
 
 ## Add your own tip to the list or constribute a visual change
@@ -30,5 +31,5 @@ Life long learning : always be curious
 Try new things
 Be open to feedback
 Be confident in yourself 
-
+Be Brave
 
